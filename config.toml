@@ -1,0 +1,4 @@
+baseURL = "https://korkosz.ml/"
+languageCode = "en-us"
+title = "Rafał Korkosz"
+theme = "zen"
